@@ -1,2 +1,2 @@
-# bitwise-4bits
- Juego de Dmino
+# bitwise-4bytes
+ Juego de Domino en c++ Builder
